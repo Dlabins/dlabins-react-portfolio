@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/dlabins-react-portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dlabins-react-portfolio/static/js/main.c28bb3b7.chunk.js",
-    "main.js.map": "/dlabins-react-portfolio/static/js/main.c28bb3b7.chunk.js.map",
-    "runtime-main.js": "/dlabins-react-portfolio/static/js/runtime-main.781f83e7.js",
-    "runtime-main.js.map": "/dlabins-react-portfolio/static/js/runtime-main.781f83e7.js.map",
-    "static/js/2.0a8b30e8.chunk.js": "/dlabins-react-portfolio/static/js/2.0a8b30e8.chunk.js",
-    "static/js/2.0a8b30e8.chunk.js.map": "/dlabins-react-portfolio/static/js/2.0a8b30e8.chunk.js.map",
-    "static/js/3.8fff94fd.chunk.js": "/dlabins-react-portfolio/static/js/3.8fff94fd.chunk.js",
-    "static/js/3.8fff94fd.chunk.js.map": "/dlabins-react-portfolio/static/js/3.8fff94fd.chunk.js.map",
+    "main.css": "/dlabins-react-portfolio/static/css/main.e6865420.chunk.css",
+    "main.js": "/dlabins-react-portfolio/static/js/main.d0747662.chunk.js",
+    "main.js.map": "/dlabins-react-portfolio/static/js/main.d0747662.chunk.js.map",
+    "runtime-main.js": "/dlabins-react-portfolio/static/js/runtime-main.6a811c04.js",
+    "runtime-main.js.map": "/dlabins-react-portfolio/static/js/runtime-main.6a811c04.js.map",
+    "static/css/2.150d169a.chunk.css": "/dlabins-react-portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.f8a1fc9e.chunk.js": "/dlabins-react-portfolio/static/js/2.f8a1fc9e.chunk.js",
+    "static/js/2.f8a1fc9e.chunk.js.map": "/dlabins-react-portfolio/static/js/2.f8a1fc9e.chunk.js.map",
+    "static/js/3.210f1d48.chunk.js": "/dlabins-react-portfolio/static/js/3.210f1d48.chunk.js",
+    "static/js/3.210f1d48.chunk.js.map": "/dlabins-react-portfolio/static/js/3.210f1d48.chunk.js.map",
     "index.html": "/dlabins-react-portfolio/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/dlabins-react-portfolio/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0a8b30e8.chunk.js.LICENSE.txt": "/dlabins-react-portfolio/static/js/2.0a8b30e8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dlabins-react-portfolio/static/media/logo.6ce24c58.svg"
+    "static/css/2.150d169a.chunk.css.map": "/dlabins-react-portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.e6865420.chunk.css.map": "/dlabins-react-portfolio/static/css/main.e6865420.chunk.css.map",
+    "static/js/2.f8a1fc9e.chunk.js.LICENSE.txt": "/dlabins-react-portfolio/static/js/2.f8a1fc9e.chunk.js.LICENSE.txt",
+    "static/media/github.a855c397.png": "/dlabins-react-portfolio/static/media/github.a855c397.png",
+    "static/media/profile.cc6492db.png": "/dlabins-react-portfolio/static/media/profile.cc6492db.png",
+    "static/media/project1.16a63a5f.png": "/dlabins-react-portfolio/static/media/project1.16a63a5f.png",
+    "static/media/project2.5e8fef08.png": "/dlabins-react-portfolio/static/media/project2.5e8fef08.png",
+    "static/media/readme.6f6b0b3c.png": "/dlabins-react-portfolio/static/media/readme.6f6b0b3c.png",
+    "static/media/resume.f033bb28.png": "/dlabins-react-portfolio/static/media/resume.f033bb28.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.781f83e7.js",
-    "static/js/2.0a8b30e8.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c28bb3b7.chunk.js"
+    "static/js/runtime-main.6a811c04.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.f8a1fc9e.chunk.js",
+    "static/css/main.e6865420.chunk.css",
+    "static/js/main.d0747662.chunk.js"
   ]
 }
