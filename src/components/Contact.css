@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
 .form-group{
     padding:40px;
     width: 50%;
@@ -17,4 +19,30 @@
     width: 30px;
     margin-left: 10px;
     margin-right: 10px;
+}
+.img-thumbnail{
+    width: 500px;
+    margin-left: 10px;
+    margin-right: 10px;  
+}
+.projects{
+    color:beige;
+    font-family: 'Anton', sans-serif;
+}
+.about{
+    color:beige;
+    font-size: 25px;
+    font-family: 'Anton', sans-serif;
+}
+.profilepic{
+    border: 5px;
+    border-style:solid;
+    border-color:black;
+}
+.contact{
+    font-family: 'Anton', sans-serif;
+}
+.hometext{
+    color:beige;
+    font-family: 'Anton', sans-serif;
 }

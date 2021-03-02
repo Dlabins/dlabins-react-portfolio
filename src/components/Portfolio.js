@@ -1,40 +1,39 @@
 import React from "react";
-
+import project1 from '../images/project1.png';
+import project2 from '../images/project2.png';
+import readme from '../images/readme.png';
+import './Contact.css';
 
 
 function Portfolio () {
     return (
 <div className="portfolio">
-        <h1 id="portfolioheader">David Labins</h1>
-        <p id="portpara">Dlabins1895@gmail.com | 860-748-1674 </p>
-        <br />
-        
-        <br />
-        <br />
-        <img class="img-thumbnail" alt="Project 1 Screenshot" src="./Image/project1.png" />
-        <br />
-        <br />
-        
-        <br />
-        
-        <br />
-        <br />
-        <br />
-        <img className="img-thumbnail" alt="Code Quiz Screenshot" src="./Image/codequiz.png" />
-        <br />
-        <br />
-       
-        <br />
-        
-        <br />
-        <br />
-        <br />
-        <img className="img-thumbnail" alt="Project 2 Screenshot" src="./Image/project2.png" />
-        <br />
-        <br />
-        
-        <br />
-        
+        <br></br>
+        <br></br>
+        <h1 class="projects">Project #1</h1>
+        <br></br>
+        <a href="https://shannonquinn91.github.io/Drury-Lane-Sweets/">
+        <img class="img-thumbnail" alt="Project 1 Screenshot" src={project1} />
+        </a>
+        <br></br>
+        <br></br>
+        <br></br>
+        <h1 class="projects">Readme Generator</h1>
+        <br></br>
+        <a href="https://github.com/Dlabins/README-Generator">
+        <img className="img-thumbnail" alt="Readme Generator" src={readme} />
+        </a>
+        <br></br>
+        <br></br>
+        <br></br>
+        <h1 class="projects">Project #2</h1>
+        <br></br>
+        <a href="https://eddiephi-plots-of-gold.herokuapp.com/">
+        <img className="img-thumbnail" alt="Project 2 Screenshot" src={project2} />
+        </a>
+        <br></br>
+        <br></br>
+        <br></br>
       </div>
     );
   }

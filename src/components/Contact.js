@@ -6,15 +6,15 @@ function Contact () {
     <div className="contact">
        <form>
         <section className="form-group">
-          <label htmlFor="formGroupExampleInput"><h1>Name</h1></label>
+          <label htmlFor="formGroupExampleInput"><h1 class="contact">Name</h1></label>
           <input type="text" className="form-control text-center" id="formGroupExampleInput" placeholder="Enter First and Last Name" />
         </section>
         <section className="form-group">
-          <label htmlFor="formGroupExampleInput2"><h1>Email</h1></label>
+          <label htmlFor="formGroupExampleInput2"><h1 class="contact">Email</h1></label>
           <input type="text" className="form-control text-center" id="formGroupExampleInput2" placeholder="Enter Email Address" />
         </section>
         <section className="form-group">
-          <label htmlFor="formGroupExampleInput3"><h1>Message</h1></label>
+          <label htmlFor="formGroupExampleInput3"><h1 class="contact">Message</h1></label>
           <input type="text" className="form-control text-center" id="formGroupExampleInput3" placeholder="What would you like to talk about?" />
         </section>
         <section className="Submitbtn">

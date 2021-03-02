@@ -3,7 +3,7 @@ import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import { Header, Portfolio, Contact, About, Footer} from "./components";
+import { Header, Portfolio, Contact, About, Footer, Home} from "./components";
 
 
 function App() {
@@ -13,6 +13,7 @@ function App() {
      <Router>
       <Header />
       <Switch>
+      <Route path="/" exact component={() => <Home />} />
       <Route path="/about" exact component={() => <About />} />
       <Route path="/portfolio" exact component={() => <Portfolio />} />
       <Route path="/contact" exact component={() => <Contact />} />
