@@ -19,7 +19,7 @@ function Home() {
           <br></br>
         <div class="btn-group" role="group" aria-label="Basic outlined example">
             <Link to="/portfolio">
-          <button type="button" onClick="/portfolio" class="btn btn-outline-warning">See my work ➟ </button>
+          <button type="button" class="btn btn-outline-warning">See my work ➟ </button>
           </Link>
        </div>
           
