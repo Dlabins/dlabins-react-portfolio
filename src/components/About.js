@@ -1,6 +1,6 @@
 import React from "react";
 import profilePic from '../images/profile.png';
-import './Contact.css';
+import './style.css';
 
 
 

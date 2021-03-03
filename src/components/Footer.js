@@ -2,7 +2,7 @@ import React from "react";
 import linkedin from '../images/linkedin.png';
 import github from '../images/github.png';
 import resume from '../images/resume.png';
-import './Contact.css';
+import './style.css';
 
 function Footer () {
     return (

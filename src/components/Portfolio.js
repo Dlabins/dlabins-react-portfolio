@@ -2,7 +2,7 @@ import React from "react";
 import project1 from '../images/project1.png';
 import project2 from '../images/project2.png';
 import readme from '../images/readme.png';
-import './Contact.css';
+import './style.css';
 
 
 function Portfolio () {
