@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dlabins-react-portfolio/static/css/main.e6865420.chunk.css",
-    "main.js": "/dlabins-react-portfolio/static/js/main.fb35c098.chunk.js",
-    "main.js.map": "/dlabins-react-portfolio/static/js/main.fb35c098.chunk.js.map",
+    "main.css": "/dlabins-react-portfolio/static/css/main.d06665c4.chunk.css",
+    "main.js": "/dlabins-react-portfolio/static/js/main.d991b6c9.chunk.js",
+    "main.js.map": "/dlabins-react-portfolio/static/js/main.d991b6c9.chunk.js.map",
     "runtime-main.js": "/dlabins-react-portfolio/static/js/runtime-main.6a811c04.js",
     "runtime-main.js.map": "/dlabins-react-portfolio/static/js/runtime-main.6a811c04.js.map",
     "static/css/2.150d169a.chunk.css": "/dlabins-react-portfolio/static/css/2.150d169a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.210f1d48.chunk.js.map": "/dlabins-react-portfolio/static/js/3.210f1d48.chunk.js.map",
     "index.html": "/dlabins-react-portfolio/index.html",
     "static/css/2.150d169a.chunk.css.map": "/dlabins-react-portfolio/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.e6865420.chunk.css.map": "/dlabins-react-portfolio/static/css/main.e6865420.chunk.css.map",
+    "static/css/main.d06665c4.chunk.css.map": "/dlabins-react-portfolio/static/css/main.d06665c4.chunk.css.map",
     "static/js/2.f8a1fc9e.chunk.js.LICENSE.txt": "/dlabins-react-portfolio/static/js/2.f8a1fc9e.chunk.js.LICENSE.txt",
     "static/media/github.a855c397.png": "/dlabins-react-portfolio/static/media/github.a855c397.png",
     "static/media/profile.cc6492db.png": "/dlabins-react-portfolio/static/media/profile.cc6492db.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.6a811c04.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.f8a1fc9e.chunk.js",
-    "static/css/main.e6865420.chunk.css",
-    "static/js/main.fb35c098.chunk.js"
+    "static/css/main.d06665c4.chunk.css",
+    "static/js/main.d991b6c9.chunk.js"
   ]
 }
